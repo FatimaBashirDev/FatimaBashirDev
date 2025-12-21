@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Fatima Bashir 👋  
 
-<!--
-**FatimaBashirDev/FatimaBashirDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Software Engineering Student  
+💻 Frontend Developer (Beginner)  
+🎨 Graphic Designer | UI Lover  
+🚀 Learning step by step & building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- I am a beginner frontend developer  
+- Currently learning **HTML, CSS & React**  
+- I love creating **clean UI designs**  
+- I believe in **learning by building projects**
+
+---
+
+## 🛠 Skills
+- HTML5  
+- CSS3  
+- JavaScript (Basics)  
+- React (Beginner)  
+- C++ / C#  
+- Canva | Photoshop  
+
+---
+
+## 📌 Projects
+- **Role-Based Team Dashboard (React)**  
+  - Role filtering using React  
+  - Conditional rendering  
+  - Dark UI design  
+
+- **Landing Page Designs**  
+  - Responsive layouts  
+  - Clean UI  
+
+*(More projects coming soon 🚀)*
+
+---
+
+## 🌱 Currently Learning
+- React fundamentals  
+- Components & props  
+- UI/UX best practices  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/fatima-bashir-b9a538346/
+- Email: fatihere75@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
