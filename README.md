@@ -1,6 +1,6 @@
 # Hi, I'm Fatima Bashir 👋  
 
-![jeremy-bishop-G9i_plbfDgk-unsplash](https://github.com/user-attachments/assets/29b7e9c4-d8ee-4523-8fa3-8662b062aeac)
+![anas-alshanti-feXpdV001o4-unsplash](https://github.com/user-attachments/assets/c918e7b8-f062-45d4-ad4b-902c5db6f99c)
 
 
 ✨ Software Engineering Student  
