@@ -35,13 +35,12 @@
 - Role filtering using React  
 - Conditional rendering  
 - Dark UI design  
-![Project Screenshot](https://your-project-screenshot-link.com/dashboard.png)
+<img width="1920" height="1353" alt="screencapture-react-team-dashboard-vercel-app-2025-12-28-05_37_20" src="https://github.com/user-attachments/assets/680a9fcd-a7f7-4859-b1ee-c3b139b20d54" />
+
 
 ### **Landing Page Designs**
 - Responsive layouts  
 - Clean UI  
-![Project Screenshot](https://your-project-screenshot-link.com/landing.png)
-
 *(More projects coming soon 🚀)*
 
 ---
