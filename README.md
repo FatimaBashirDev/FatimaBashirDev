@@ -1,6 +1,6 @@
 # Hi, I'm Fatima Bashir 👋  
 
-<img width="400" height="200" alt="banner" src="./assets/banner.jpg" />
+<img width="900" height="200" alt="banner" src="./assets/banner.jpg" />
 
 
 ✨ Software Engineering Student  
