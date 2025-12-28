@@ -1,6 +1,6 @@
 # Hi, I'm Fatima Bashir 👋  
 
-<img width="200" height="200" alt="pfp-maker (19)" src="./assets/banner.JPG" />
+<img width="200" height="200" alt="banner" src="./assets/banner.jpg" />
 
 
 ✨ Software Engineering Student  
