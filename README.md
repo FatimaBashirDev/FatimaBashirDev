@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 About Me
-<img width="506" height="506" alt="pfp-maker (19)" src="https://github.com/user-attachments/assets/c276ce3d-352e-4576-b1c5-ad0a071436a4" />
+<img width="200" height="200" alt="pfp-maker (19)" src="https://github.com/user-attachments/assets/c276ce3d-352e-4576-b1c5-ad0a071436a4" />
 
 - I am a beginner frontend developer  
 - Currently learning **HTML, CSS & React**  
