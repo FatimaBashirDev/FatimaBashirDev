@@ -1,6 +1,6 @@
 # Hi, I'm Fatima Bashir 👋  
 
-![anas-alshanti-feXpdV001o4-unsplash](https://github.com/user-attachments/assets/c918e7b8-f062-45d4-ad4b-902c5db6f99c)
+<img width="200" height="200" alt="pfp-maker (19)" src="./assets/banner.JPG" />
 
 
 ✨ Software Engineering Student  
