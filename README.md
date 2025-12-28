@@ -49,7 +49,8 @@
 - React fundamentals  
 - Components & props  
 - UI/UX best practices  
-![Learning](https://your-learning-image-link.com/learning.png)
+<img width="1536" height="1024" alt="ChatGPT Image Dec 28, 2025, 05_41_27 AM" src="https://github.com/user-attachments/assets/b9743489-fe37-4e6e-902c-e79e6cb1e481" />
+
 
 ---
 
