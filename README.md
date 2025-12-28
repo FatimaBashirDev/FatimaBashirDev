@@ -1,6 +1,7 @@
 # Hi, I'm Fatima Bashir 👋  
 
-![Banner](https://your-banner-image-link.com/banner.png)  
+![jeremy-bishop-G9i_plbfDgk-unsplash](https://github.com/user-attachments/assets/29b7e9c4-d8ee-4523-8fa3-8662b062aeac)
+
 
 ✨ Software Engineering Student  
 💻 Frontend Developer (Beginner)  
