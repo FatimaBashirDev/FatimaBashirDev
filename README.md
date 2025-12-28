@@ -11,7 +11,8 @@
 ---
 
 ## 🌟 About Me
-![Profile Pic](https://your-profile-pic-link.com/profile.png)  
+<img width="756" height="756" alt="pfp-maker (19)" src="https://github.com/user-attachments/assets/c276ce3d-352e-4576-b1c5-ad0a071436a4" />
+
 - I am a beginner frontend developer  
 - Currently learning **HTML, CSS & React**  
 - I love creating **clean UI designs**  
@@ -24,7 +25,7 @@
 |----------|------------|--------------|
 | HTML5 | C++ | Canva |
 | CSS3 | C# | Photoshop |
-| JavaScript (Basics) | - | - |
+| JavaScript (Intermediate) | - | - |
 | React (Beginner) | - | - |
 
 ---
