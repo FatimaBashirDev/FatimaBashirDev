@@ -19,6 +19,11 @@
 - I believe in **learning by building projects**  
 
 ---
+[![HTML5](https://img.shields.io/badge/HTML5-45234F?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-45234F?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-45234F?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-45234F?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+
 
 ## 🛠 Skills
 | Frontend | Programming | Design Tools |
