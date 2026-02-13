@@ -2,21 +2,23 @@
 
 <img width=100% height="400" alt="banner" src="./assets/banner.jpg" />
 
-
-✨ Software Engineering Student  
-💻 Frontend Developer (Beginner)  
-🎨 Graphic Designer | UI Lover  
-🚀 Learning step by step & building projects  
+✨ Software Engineering Student | Front-End Web Developer  
+💻 React & Next.js Enthusiast | UI/UX Lover  
+🎨 Graphic Designer | Passionate about Clean & Engaging Interfaces  
+🚀 Building projects, learning continuously, and sharing my journey  
 
 ---
 
 ## 🌟 About Me
-<img width="200" height="200" alt="profile"  src="./assets/profile.png" />
+<img width="200" height="200" alt="profile" src="./assets/profile.png" />
 
-- I am a beginner frontend developer  
-- Currently learning **HTML, CSS & React**  
-- I love creating **clean UI designs**  
-- I believe in **learning by building projects**  
+- I build **responsive and user-friendly web apps** with React & Next.js  
+- I love turning **designs into functional interfaces**  
+- Skilled in **HTML, CSS, JavaScript, Tailwind CSS**  
+- Strong background in **graphic design and UI/UX**  
+- I believe in **learning by building projects that make an impact**  
+
+---
 
 ## 🛠️ Skills & Technologies
 
@@ -25,6 +27,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!-- Design Tools -->
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -35,24 +39,32 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 ## 📌 Projects
-### **Role-Based Team Dashboard (React)**
-- Role filtering using React  
-- Conditional rendering  
-- Dark UI design  
+### **Role-Based Team Dashboard (React & Next.js)**
+- Role filtering & conditional rendering  
+- Dark UI design with responsive layouts  
+- Built with React hooks & Next.js routing  
+
 ### **Landing Page Designs**
-- Responsive layouts  
-- Clean UI  
-*(More projects coming soon 🚀)*
+- Fully **responsive and mobile-friendly**  
+- Emphasis on **clean UI & modern UX patterns**  
+
+### **Portfolio Website (Next.js & Tailwind CSS)**
+- Showcases projects and skills  
+- Smooth animations & interactive components  
+*(More projects coming soon 🚀)*  
 
 ---
 
 ## 🌱 Currently Learning
-- React fundamentals  
-- Components & props  
-- UI/UX best practices  
-<img width="1536" height="1024" alt="ChatGPT Image Dec 28, 2025, 05_41_27 AM" src="./assets/learning.png" />
+- Advanced **React & Next.js concepts**  
+- State management with **Redux & Context API**  
+- **UI/UX best practices & accessibility standards**  
+- Optimizing **performance for web applications**  
 
+<img width="1536" height="1024" alt="learning" src="./assets/learning.png" />
 
 ---
 
@@ -62,4 +74,4 @@
 
 ---
 
-⭐ Thanks for visiting my profile!  
+⭐ Thanks for visiting my profile! Let’s build something amazing together 🚀
